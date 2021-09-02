@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGrid should render 1`] = `
+<Fragment>
+  <h2
+    className="animate__animated animate__fadeIn"
+  >
+    Mola
+  </h2>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id={1}
+      key="1"
+      title="cosa"
+      url="http://www.w3.org/1999/"
+    />
+  </div>
+</Fragment>
+`;
